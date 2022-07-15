@@ -1,0 +1,23 @@
+.btn_blue{text-align: center;background-color:#007AFF;padding:8px 15px;border-radius: 8px;color:white;}
+.btn_blue:active{background-color:#0061C9}
+.background{background-image: url("./index/background.jpg");background-size:100%}
+.title-text{
+	text-align:center;
+	font-height:bolder;
+}
+.input{/*输入框总元素*/
+	margin:8px 0px;
+	background-color:white;
+	height:50px;
+	border-radius: 20px;
+	line-height:50px;
+}
+.input-name{
+	float:left;
+	margin:0px 10px;
+	font-size:120%;
+}
+.input-line{
+	float:left;
+	font-size:150%;
+}
